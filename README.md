@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**ZohaFatimaShah/ZohaFatimaShah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm **Zoha Fatima**, a software engineer with over two years of experience transforming legacy applications into modern web solutions. Currently, I'm working with **ShowGrounds**, where I'm utilizing **React** and **NestJS** to enhance the equestrian industry through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Based in **Islamabad, Pakistan**
+- 🎓 Bachelor of Computer Science from **National University of Computer and Emerging Sciences (FAST)**
+- 🔧 Technologies & Tools: React, NestJS, JavaScript, TypeScript, PHP, WordPress, Git, Docker
+- 💼 Currently working on the [ShowGrounds](https://showgroundslive.com) project.
+
+## 🌱 I’m Currently Learning
+- Webflow
+- GraphQL
+- AWS
