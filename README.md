@@ -6,7 +6,7 @@ I'm **Zoha Fatima**, a software engineer with over two years of experience trans
 
 - 🌍 Based in **Islamabad, Pakistan**
 - 🎓 Bachelor of Computer Science from **National University of Computer and Emerging Sciences (FAST)**
-- 🔧 Technologies & Tools: React, NestJS, JavaScript, TypeScript, PHP, WordPress, Git, Docker
+- 🔧 Technologies & Tools: React, NestJS, JavaScript, TypeScript, PHP, WordPress, Git, Docker, MySQL
 - 💼 Currently working on the [ShowGrounds](https://showgroundslive.com) project.
 
 ## 🌱 I’m Currently Learning
